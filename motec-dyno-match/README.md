@@ -23,7 +23,7 @@ using normalised cross-correlation on the RPM shape.
 Requires Python 3.9+. Clone and install the one dependency:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/motec-dyno-match.git
+git clone https://github.com/yeohnicholas4-pixel/motec-dyno-match.git
 cd motec-dyno-match
 pip install -r requirements.txt
 ```
