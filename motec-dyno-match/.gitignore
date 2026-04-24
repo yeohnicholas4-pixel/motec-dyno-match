@@ -1,0 +1,39 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test data / user data (don't commit CSVs by default)
+*.csv
+*.ld
+!tests/**/*.csv
+
+# Matplotlib / output artefacts
+*.png
+*.pdf
+*.svg
+!docs/**/*.png
+!docs/**/*.svg
